@@ -1,11 +1,11 @@
-@def title="Abhinav Kaushlya"
+@def title="Anooj Patel"
 
 ~~~
 <h1>Hi there!</h1>
 ~~~
 
-I'm Abhinav, an open-source contributor working with the Julia community on
-building high quality scientific software.
+I'm Anooj, an open-source developer focused on Machine Learning and 
+Software Engineering."
 
 ---
 
