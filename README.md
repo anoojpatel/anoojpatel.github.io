@@ -1,9 +1,7 @@
-# [abhishlya.github.io](https://abhishalya.github.io)
+# Personal Site Template
+### Attempting to debug why my [project website](anoojpatel.github.io/anooj-dev-website) lacks Styling
+when hosted from the project URL.
 
-This is my personal portfolio and blog site. This also serves on my domain
-[abhishalya.tech](https://abhishalya.tech), thanks to github student pack for
-free domain name.
+Thanks Abhinav for his simple blog template as a base :)
+[abhishlya.github.io](https://abhishalya.github.io)
 
-I would love to hear feedback from other people regarding the site. I made it
-very light weight and content-focused site. It doesn't have any javascript
-apart from the one Franklin uses (highlight.js, katex, etc).
