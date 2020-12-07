@@ -5,43 +5,83 @@
 ~~~
 
 I'm Anooj, an open-source developer focused on Machine Learning and 
-Software Engineering."
+Software Engineering 👨🏽‍💻.
 
 ---
+
+~~~
+<h1>What I'm Doing right now!</h1>
+<h2><a href="https://thewitproject.com">the<WIT>Project</a></h2>
+~~~
+Working with some dope people and even more dope fellows! Kind of
+like a Project Manager, being a technical resource and lead for
+young women to build cool projects with non-profits.
+
+~~~
+<h2><a href="http://www.ap-tech-solns.com/">Applied Technology Solutions</a></h2>
+~~~
+Part-time, building out persistence framework and researching interesting problems
+like Distributed ID-Generation, Precision Healthcare, and some more ML stuff.
 
 ~~~
 <h1>Experience</h1>
 
-<h2>MLH Fellowship</h2>
+<h2><a href="https://beacon.bio">Beacon Biosignals</a></h2>
 ~~~
 
-One of the MLH fellows contributing to Julia projects including
-[Flux.jl](https://fluxml.ai/) and
-[Documenter.jl](https://github.com/JuliaDocs/Documenter.jl/).
+Developed deep learning models to solve the biggest problems in
+neuroscience with the smartest experts on the largest brain datasets!
 
 ~~~
-<h2>coala Maintainer</h2>
+<h2>IBM Watson</h2>
 ~~~
 
-I currently maintain [coala](https://github.com/coala), an open-source project
-that helps you write the cleanest code irrespective of the language and all
-of that in a single config file which works nicely with your CI configuration.
+Work as an Intern for 2 summers for the Open Source Data and AI Team. 
+Contributed to Spark (Keras to [SystemML](https://github.com/apache/systemds) model conversion engine),
+working on Model Asset eXchange, and doing some research on 
+GANs for time series data ([audio and financial](https://github.com/IBM/MAX-Audio-Sample-Generator)).
+
+~~~
+<h3><a href="https://nsvtech.com">NSV tech</a></h3>
+~~~
+Was an intern. Built out the premiliary models and developed some cool workflows
 
 ---
 
 ~~~
-<h1>Achievements</h1>
+<h1>Current Projects</h1>
 
-<h2>Google Code-in Winner</h2>
+<h2>Dark Chess Engine</h2>
 ~~~
 
-I was one of the 50 winners in
-[Google Code-in competition](https://codein.withgoogle.com)
-while contributing to [The Julia Programming Language](https://julialang.org).
-Contributed over several open-source packages and repositories. In love with
-Julia ever since. :heart:
+Currently trying to build the first [dark chess engine](https://github.com/anoojpatel/ImpCatcher) utilizing some of the 
+great imperfect-information Nash equilibrium solving algorithms, like Counterfactual
+Regret Minimization and Multi-Objective Information Set Monte-Carlo Tree Search.
+
+~~~
+<h2> Quantitative Finance</h2>
+<h3> Limit OrderBook.jl</h3>
+~~~
+Developing a Julia implementation of a high throughput, efficient Limit Orderbook.
+This simulating, recreating orderbooks, NBBO generation, backtesting,
+live trading, etc.
+
+~~~
+<h3> Signature Method applied to Financial Time Series </h3>
+~~~
+Currently working on implementing a simple library for Signature Method
+for machine learning applications.
+
+~~~
+<h3> AlgoTradingPipeline.jl </h3>
+~~~
+*Planned*
+My goal is to create a simple framework like Flyte, but for the core components
+of an algotrading system in Julia. Mainly a project to learn but also to add
+value for beginners and folks with short runways on prototyping a pipeline.
+
 
 ---
 
-:star: Do checkout my blog on [#covid](/tag/covid), [#julia](/tag/julia),
-[#code-in](/tag/code-in), [#mlh](/tag/mlh).
+:star: *WIP* Do checkout my blog on [#julia](/tag/julia),
+[#qaunt](/tag/quant), [#chess](/tag/chess), [#finance](/tag/finance), [#pipelines](/tag/pipline).
