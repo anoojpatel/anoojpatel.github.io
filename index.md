@@ -11,7 +11,7 @@ Software Engineering 👨🏽‍💻.
 
 ~~~
 <h1>What I'm Doing right now!</h1>
-<h2><a href="https://thewitproject.com">the<WIT>Project</a></h2>
+<h2><a href="https://thewitproject.com">the&lt;WIT$gt;Project</a></h2>
 ~~~
 Working with some dope people and even more dope fellows! Kind of
 like a Project Manager, being a technical resource and lead for
