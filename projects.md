@@ -5,58 +5,33 @@
 ~~~
 
 ~~~
-<h2>ZoomCord</h2>
+<h2>ImpCatcher</h2>
 ~~~
 
-Source: [GitHub](https://github.com/MLH-Fellowship/ZoomCord)
+Source: [GitHub](https://github.com/anoojpatel/ImpCatcher)
 
-A Discord bot written in Julia using
-[Discord.jl](https://github.com/Xh4H/Discord.jl) and
-[Genie.jl](https://genieframework.com/) to schedule meetings right from your
-discord server.
+A Dark Chess Engine, created to beat an average 1600 ELO rated player in 
+Imperfect information version of Chess.
 
-This project was a part of the MLH hackathon in which along with me
-[Diaga](https://github.com/Diaga) and [makrandr](https://github.com/makrandr)
-collaborated and submitted this project.
+~~~
+<h2>LimitOrderbook.jl</h2>
+~~~
+Source: [GitHub](https://github.com/anoojpatel/LimitOrderbook.jl)
+
+A blazing fast implementation of a limit orderbook with price-time matching
+engine. Can be used for orderbook reconstruction, LOBSTER, backtesting due
+to its O(1) insertions, deletions and view of the L2 orderbook level.
+
+~~~
+<h2>Audio-Sample Generator (MAX)</h2>
+~~~
+Source: [Github](https://github.com/IBM/MAX-Audio-Sample-Generator)
+
+Utilizes a robustly trained WaveGAN to generate audio. This is a model
+that is wrapped as a service via the Model Asset eXchange design pattern
+made at IBM CODAIT.
 
 ---
-
-~~~
-<h2>InteractDeploy.jl</h2>
-
-~~~
-
-Source: [GitHub](https://github.com/abhishalya/InteractDeploy.jl)
-
-A script to deploy your interact web application with Heroku.
-
-To be soon developed into a Julia package with command line interface.
-
----
-
-~~~
-<h2>cmbot</h2>
-~~~
-
-Source: [GitHub](https://github.com/codemute/cmbot)
-
-A multi-backend bot written in Python with Errbot.
-
-cmbot was written to aid git requirements for the
-[codemute](https://codemute.ml) organization, an organization to collaborate
-on projects along with my fellow classmates and other students. The bot
-supports multiple chat platforms including gitter, zulip, etc.
-
----
-
-~~~
-<h2>rating-image-generator</h2>
-~~~
-
-Source: [Github](https://github.com/abhishalya/rating-image-generator)
-
-rating-image-generator is a small little proejct to create fancy rating badges
-for your favourite competitive programming platform.
 
 ~~~
 <h3>Also there are lot more projects incoming, stay tuned!</h3>
