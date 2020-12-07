@@ -11,7 +11,7 @@ Software Engineering 👨🏽‍💻.
 
 ~~~
 <h1>What I'm Doing right now!</h1>
-<h2><a href="https://thewitproject.com">the&lt;WIT$gt;Project</a></h2>
+<h2><a href="https://thewitproject.com">the&lt;WIT&gt;Project</a></h2>
 ~~~
 Working with some dope people and even more dope fellows! Kind of
 like a Project Manager, being a technical resource and lead for
@@ -22,6 +22,8 @@ young women to build cool projects with non-profits.
 ~~~
 Part-time, building out persistence framework and researching interesting problems
 like Distributed ID-Generation, Precision Healthcare, and some more ML stuff.
+
+---
 
 ~~~
 <h1>Experience</h1>
@@ -42,7 +44,7 @@ working on Model Asset eXchange, and doing some research on
 GANs for time series data ([audio and financial](https://github.com/IBM/MAX-Audio-Sample-Generator)).
 
 ~~~
-<h3><a href="https://nsvtech.com">NSV tech</a></h3>
+<h2><a href="https://nsvtech.com">NSV Tech</a></h2>
 ~~~
 Was an intern. Built out the premiliary models and developed some cool workflows
 
