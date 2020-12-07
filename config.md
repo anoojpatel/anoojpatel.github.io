@@ -3,11 +3,11 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "Abhinav Kaushlya"
-@def website_descr = "Personal portfolio and blog site by abhishalya"
-@def website_url   = "https://abhishalya.tech"
+@def website_title = "Anooj Patel"
+@def website_descr = "Personal site"
+@def website_url   = "https://anooj.dev"
 
-@def author = "Abhinav Kaushlya"
+@def author = "Anooj Patel"
 
 @def mintoclevel = 2
 
