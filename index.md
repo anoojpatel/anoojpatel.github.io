@@ -11,6 +11,11 @@ Software Engineering 👨🏽‍💻.
 
 ~~~
 <h1>What I'm Doing right now!</h1>
+<h2><a href="https://freenome.com">Freenome</a></h2>
+~~~
+Machine Learning Research Engineer solving Cancer with ML!
+
+~~~
 <h2><a href="https://thewitproject.com">the&lt;WIT&gt;Project</a></h2>
 ~~~
 Working with some dope people and even more dope fellows! Kind of
