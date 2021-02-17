@@ -69,8 +69,8 @@ Regret Minimization and Multi-Objective Information Set Monte-Carlo Tree Search.
 <h2> Quantitative Finance</h2>
 <h3> Limit OrderBook.jl</h3>
 ~~~
-Developing a Julia implementation of a high throughput, efficient Limit Orderbook.
-This simulating, recreating orderbooks, NBBO generation, backtesting,
+Developing a Julia implementation of a high throughput, efficient, near constant-time Limit Orderbook.
+Useful for simulating, recreating orderbooks snapeshots, NBBO generation, backtesting,
 live trading, etc.
 
 ~~~
