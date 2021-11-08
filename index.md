@@ -16,17 +16,19 @@ Software Engineering 👨🏽‍💻.
 Machine Learning Research Engineer solving Cancer with ML!
 
 ~~~
+<h2><a hred="https://insightsoftmax.com">Insight Softmax</a></h2>
+~~~
+Quantitative Research and Datascience consluting on the side. Past clients:
+ - [Sommelier.finance](https://sommelier.finance)!
+    Built quantitative strategies for automated market making on Uniswap v3, designed backetsting infrastructure and research pipeline.
+
+~~~
 <h2><a href="https://thewitproject.com">the&lt;WIT&gt;Project</a></h2>
 ~~~
 Working with some dope people and even more dope fellows! Kind of
 like a Project Manager, being a technical resource and lead for
 young women to build cool projects with non-profits.
 
-~~~
-<h2><a href="http://www.ap-tech-solns.com/">Applied Technology Solutions</a></h2>
-~~~
-Part-time, building out persistence framework and researching interesting problems
-like Distributed ID-Generation, Precision Healthcare, and some more ML stuff.
 
 ---
 
@@ -38,6 +40,13 @@ like Distributed ID-Generation, Precision Healthcare, and some more ML stuff.
 
 Developed deep learning models to solve the biggest problems in
 neuroscience with the smartest experts on the largest brain datasets!
+
+~~~
+<h2><a href="http://www.ap-tech-solns.com/">Applied Technology Solutions</a></h2>
+~~~
+Part-time, building out persistence framework and researching interesting problems
+like Distributed ID-Generation, Precision Healthcare, and some more ML stuff.
+
 
 ~~~
 <h2>IBM Watson</h2>
