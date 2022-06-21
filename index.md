@@ -25,7 +25,7 @@ Quantitative Research and Datascience consluting on the side. Past clients:
 ~~~
 <h2><a href="https://thewitproject.com">the&lt;WIT&gt;Project</a></h2>
 ~~~
-Working with some dope people and even more dope fellows! Kind of
+Working with some dope people and even more dope fellows! I'm acting kind of
 like a Project Manager, being a technical resource and lead for
 young women to build cool projects with non-profits.
 
@@ -99,5 +99,5 @@ value for beginners and folks with short runways on prototyping a pipeline.
 
 ---
 
-:star: *WIP* Do checkout my blog on [#julia](/tag/julia),
+:star: *WIP*: Do checkout my blog on [#julia](/tag/julia),
 [#qaunt](/tag/quant), [#chess](/tag/chess), [#finance](/tag/finance), [#pipelines](/tag/pipline).
