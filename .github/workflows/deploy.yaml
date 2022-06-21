@@ -12,12 +12,12 @@ jobs:
       with:
         persist-credentials: false
     - name: Install python
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v2
       with:
         python-version: '3.8'
     - run: pip install matplotlib
     - name: Install Julia
-      uses: julia-actions/setup-julia@v2
+      uses: julia-actions/setup-julia@v1
       with:
         version: 1.5
     - run: julia -e '
