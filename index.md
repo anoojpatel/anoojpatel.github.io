@@ -74,29 +74,6 @@ Currently trying to build the first [dark chess engine](https://github.com/anooj
 great imperfect-information Nash equilibrium solving algorithms, like Counterfactual
 Regret Minimization and Multi-Objective Information Set Monte-Carlo Tree Search.
 
-~~~
-<h2> Quantitative Finance</h2>
-<h3> Limit OrderBook.jl</h3>
-~~~
-Developing a Julia implementation of a high throughput, efficient, near constant-time Limit Orderbook.
-Useful for simulating, recreating orderbooks snapeshots, NBBO generation, backtesting,
-live trading, etc.
-
-~~~
-<h3> Signature Method applied to Financial Time Series </h3>
-~~~
-Currently working on implementing a simple library for Signature Method
-for machine learning applications.
-
-~~~
-<h3> AlgoTradingPipeline.jl </h3>
-~~~
-*Planned*
-My goal is to create a simple framework like Flyte, but for the core components
-of an algotrading system in Julia. Mainly a project to learn but also to add
-value for beginners and folks with short runways on prototyping a pipeline.
-
-
 ---
 
 :star: *WIP*: Do checkout my blog on [#julia](/tag/julia),
