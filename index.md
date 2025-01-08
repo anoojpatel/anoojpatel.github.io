@@ -22,7 +22,13 @@ Machine Learning Research Engineer solving Cancer with ML!
 ~~~
 <h1>Experience</h1>
 
+<h2><a href="https://www.eink.com/">E Ink Corporation</a><h2>
+~~~
+Consulted on projects related to dynamical modeling of multi-colored electrophoretic ink capsules
+with deep learning models. Goals included building interpretable variablity across production batches while
+understanding the necessary dynamics to drive display color efficiently.
 
+~~~
 <h2><a href="https://insightsoftmax.com">Insight Softmax</a></h2>
 ~~~
 Quantitative Research and Datascience consluting on the side. Past clients:
