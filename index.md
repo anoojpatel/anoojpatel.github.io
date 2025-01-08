@@ -22,9 +22,9 @@ Machine Learning Research Engineer solving Cancer with ML!
 ~~~
 <h1>Experience</h1>
 
-~~~
-<h2><a href="https://insightsoftmax.com">Insight Softmax</a></h2>
 
+<h2><a href="https://insightsoftmax.com">Insight Softmax</a></h2>
+~~~
 Quantitative Research and Datascience consluting on the side. Past clients:
  - [Sommelier.finance](https://sommelier.finance):
     Built quantitative strategies for automated market making on Uniswap v3, designed backetsting infrastructure and research pipeline.
@@ -76,6 +76,7 @@ subtyping via SimpleSub. Currently the first iteration is written in Python and 
 ~~~
 
 ---
+~~~
 <h1>Past Projects</h1>
 
 <h2>Dark Chess Engine</h2>
