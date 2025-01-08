@@ -24,7 +24,7 @@ Machine Learning Research Engineer solving Cancer with ML!
 
 ~~~
 <h2><a href="https://insightsoftmax.com">Insight Softmax</a></h2>
-~~~
+
 Quantitative Research and Datascience consluting on the side. Past clients:
  - [Sommelier.finance](https://sommelier.finance):
     Built quantitative strategies for automated market making on Uniswap v3, designed backetsting infrastructure and research pipeline.
