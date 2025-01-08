@@ -23,7 +23,7 @@ Machine Learning Research Engineer solving Cancer with ML!
 <h1>Experience</h1>
 
 ~~~
-<h2><a hred="https://insightsoftmax.com">Insight Softmax</a></h2>
+<h2><a href="https://insightsoftmax.com">Insight Softmax</a></h2>
 ~~~
 Quantitative Research and Datascience consluting on the side. Past clients:
  - [Sommelier.finance](https://sommelier.finance):
