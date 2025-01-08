@@ -19,11 +19,12 @@ Machine Learning Research Engineer solving Cancer with ML!
 
 ---
 
-~~~
+
 <h1>Experience</h1>
 
 ~~~
 <h2><a href="https://insightsoftmax.com">Insight Softmax</a></h2>
+~~~
 
 Quantitative Research and Datascience consluting on the side. Past clients:
  - [Sommelier.finance](https://sommelier.finance):
@@ -70,16 +71,17 @@ Was an intern. Built out the premiliary models and developed some cool workflows
 <h1>Current Projects</h1>
 
 <h2><a href="https://github.com/anoojpatel/metaxu/tree/main">Metaxu Language</a></h2>
+~~~
 Currently building a modern functional-style programming langauge for systems programming. It features
 algebraic effects, a modal system for borrow checking (like Jane Street's Oxidized Ocaml) and algebraic
 subtyping via SimpleSub. Currently the first iteration is written in Python and compiles directly to C.
-~~~
+
 
 ---
 <h1>Past Projects</h1>
 
 <h2>Dark Chess Engine</h2>
-~~~
+
 
 Built the first [dark chess engine](https://github.com/anoojpatel/ImpCatcher) utilizing some of the 
 great imperfect-information Nash equilibrium solving algorithms, like Counterfactual
