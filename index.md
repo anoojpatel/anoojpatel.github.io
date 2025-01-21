@@ -22,7 +22,7 @@ Machine Learning Research Engineer solving Cancer with ML!
 ~~~
 <h1>Experience</h1>
 
-<h2><a href="https://www.eink.com/">E Ink Corporation</a><h2>
+<h2><a href="https://www.eink.com/">E Ink Corporation</a></h2>
 ~~~
 Consulted on projects related to dynamical modeling of multi-colored electrophoretic ink capsules
 with deep learning models. Goals included building interpretable variablity across production batches while
