@@ -71,6 +71,14 @@ GANs for time series data ([audio and financial](https://github.com/IBM/MAX-Audi
 Was an intern. Built out the premiliary models and developed some cool workflows
 
 ---
+~~~
+<h1> Publications </h1>
+
+<h2><a href="https://aacrjournals.org/clincancerres/article/31/13_Supplement/A045/763309/Abstract-A045-Unlocking-deep-learning-for-cell>Unlocking deep learning for cell-free DNA-based early colorectal cancer detection</a><h2>
+Michael Widrich, **Anooj Patel**, Peter Ulz, Kaitlyn Coil, Thomas Royce, Jimmy Lin, Richard Bourgon, Anindita Dutta; Abstract A045: Unlocking deep learning for cell-free DNA-based early colorectal cancer detection. Clin Cancer Res 1 July 2025; 31 (13_Supplement): A045.
+~~~
+
+---
 
 ~~~
 <h1>Current Projects</h1>
