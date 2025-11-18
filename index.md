@@ -105,4 +105,3 @@ Regret Minimization and Multi-Objective Information Set Monte-Carlo Tree Search.
 
 ---
 
-:star: *WIP*: Blog soon:tm:.
