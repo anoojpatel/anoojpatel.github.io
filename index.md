@@ -12,9 +12,9 @@ models to one of the world's largest cfDNA cancer and disease dataset.
 
 ~~~
 <h1>What I'm Doing Right Now!</h1>
-<h2><a href="https://freenome.com">Freenome</a></h2>
+<h2><a href="https://primamente.com">Prima Mente</a></h2>
 ~~~
-Senior Machine Learning Research Engineer solving Cancer with ML!
+Training foundation models on everything
 
 
 
@@ -22,6 +22,12 @@ Senior Machine Learning Research Engineer solving Cancer with ML!
 
 ~~~
 <h1>Experience</h1>
+
+<h2><a href="https://freenome.com">Freenome</a></h2>
+~~~
+Built state of the art cancder detecting deep learning models for 10s of millions of fragments of methylated DNA.
+Led Engineering for deep learning.
+
 
 <h2><a href="https://www.eink.com/">E Ink Corporation</a></h2>
 ~~~
