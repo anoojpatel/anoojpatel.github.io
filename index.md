@@ -4,17 +4,18 @@
 <h1>Hi there!</h1>
 ~~~
 
-I'm Anooj, a research engineer currently working at Freenome leading the Deep Learning Engineering  
-efforts. Currently I'm focused on scaling large neural networks and novel genomic epigentic foundation 
-models to one of the world's largest cfDNA cancer and disease dataset.
+I'm Anooj, a research engineer currently working at Prima Mente. Currently
+I'm focused on scaling large neural networks and novel genomic epigentic foundation 
+models to cure neurodegenerative diseases.
 
 ---
 
 ~~~
 <h1>What I'm Doing Right Now!</h1>
-<h2><a href="https://primamente.com">Prima Mente</a></h2>
 ~~~
-Training foundation models on everything
+<h2><a href="https://primamente.com">Prima Mente</a></h2>
+
+Training bio foundation models on everything
 
 
 
@@ -27,8 +28,9 @@ Training foundation models on everything
 ~~~
 Built state of the art cancder detecting deep learning models for 10s of millions of fragments of methylated DNA.
 Led Engineering for deep learning.
+Worked and lead on: <a href="https://www.freenome.com/newsroom/freenome-announces-expanded-artificial-intelligence-and-deep-learning-initiatives-accelerated-by-nvidia-to-advance-personalized-multi-cancer-detection/">this</a>, <a href="https://www.nvidia.com/gtc/session-catalog/sessions/gtc26-s81820/">this</a> and <a href="https://openreview.net/forum?id=Nq5XAAIUSe">that</a>.
 
-
+~~~
 <h2><a href="https://www.eink.com/">E Ink Corporation</a></h2>
 ~~~
 Consulted on projects related to dynamical modeling of multi-colored electrophoretic ink capsules
