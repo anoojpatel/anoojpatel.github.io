@@ -12,9 +12,9 @@ models to cure neurodegenerative diseases.
 
 ~~~
 <h1>What I'm Doing Right Now!</h1>
-~~~
-<h2><a href="https://primamente.com">Prima Mente</a></h2>
 
+<h2><a href="https://primamente.com">Prima Mente</a></h2>
+~~~
 Training bio foundation models on everything
 
 
